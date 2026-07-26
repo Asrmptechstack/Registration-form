@@ -1,0 +1,15 @@
+@import "tailwind.css";
+
+/* Optional */
+
+input {
+    transition: 0.3s;
+}
+
+.error {
+    border: 2px solid red;
+}
+
+.success {
+    border: 2px solid green;
+}
